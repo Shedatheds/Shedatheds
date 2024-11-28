@@ -1,2 +1,2 @@
 # Welcome to the Shed!
-A lot of stuff is going on in our shed and this is where you can get information regarding the projects we are or have been working with!
+A lot of stuff is going on in our shed and this is where you can get information regarding the projects we are working on or have been working with! We also put up tutorials here that we have created to help us remember how we made things to work......
